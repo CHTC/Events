@@ -1,28 +1,28 @@
 ---
-short_title: Trusted CI Webinar
 title: "Trusted CI Webinar"
+short_title: "Trusted CI Webinar"
 published: true
-
-excerpt:
-    Join OSG’s own Brian Bockelman for a talk on the journey to a capability-based authorization, and the challenges and opportunities of changing trust 
-    models for a functioning infrastructure. 
-
 start_date: 2021-07-26
 end_date: 2021-07-26
-location: "Virtual"
-link: "https://iu.zoom.us/webinar/register/WN_gBLnpC-yS_-en3vKAbeFzQ"
+
+excerpt:
+    Join OSG’s own Brian Bockelman for a talk on the journey to a capability-based authorization, and the challenges and opportunities of changing trust models for a functioning infrastructure.
 
 image:
-    path: "assets/images/events/trust-webinar-preview.png"
+    path: "/assets/images/events/trust-webinar-preview.png"
     alt: Webinar preview image
-
-banner:
-    src: "assets/images/events/trust-banner.png"
+banner_image:
+    path: "/assets/images/events/trust-banner.png"
     alt: Trust banner
 
+sidebar:
+    when: |
+        Monday, July 26th at 11:00am ET
+    where: |
+        Virtual webinar on [Zoom](https://iu.zoom.us/webinar/register/WN_gBLnpC-yS_-en3vKAbeFzQ).
+    registration: |
+        Registration over.
 ---
-
-{% capture main %}
 
 <p style="font-size: larger; font-weight: bold;">A capability-based authorization infrastructure for distributed High Throughput Computing</p>
 
@@ -62,22 +62,3 @@ Throughput Computing (CHTC) at University of Wisconsin-Madison.
 This talk is organized by [Trusted CI](https://www.trustedci.org/), an NSF Cybersecurity Center of Excellence with the mission of improving the cybersecurity of NSF computational science 
 and engineering projects and allowing those projects to focus on their science endeavors. [The webinar series](https://www.trustedci.org/webinars) aims to provide readily available cybersecurity 
 services tailored to the NSF science community. A recording of the webinar will be available [here](https://www.trustedci.org/webinars) for later viewing.
-
-{% endcapture %}
-
-
-{% capture subsection %}
-# When
-
-Monday, July 26th at 11:00am ET
- 
-# Where
-
-Virtual webinar on zoom
-
-# Registration
-Register Over.
-
-{% endcapture %}
-
-{% include event/event-page.html %}
