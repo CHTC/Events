@@ -51,7 +51,7 @@ functioning infrastructure.
     float: right;
     margin-left: 20px;
 ">
-<img src="https://raw.githubusercontent.com/CHTC/events/main/images/bockelman-smaller.jpeg" class="figure-img img-fluid rounded" alt="BrianBockelman">
+<img src="https://raw.githubusercontent.com/CHTC/events/main/images/bockelman-smaller.jpeg" class="figure-img img-fluid rounded" alt="Brian Bockelman">
 <figcaption class="figure-caption">Brian Bockelman</figcaption>
 </figure>
 
