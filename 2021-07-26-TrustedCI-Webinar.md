@@ -4,24 +4,31 @@ short_title: "Trusted CI Webinar"
 published: true
 start_date: 2021-07-26
 end_date: 2021-07-26
+publish_on:
+  - path
 
 excerpt:
     Join OSG’s own Brian Bockelman for a talk on the journey to a capability-based authorization, and the challenges and opportunities of changing trust models for a functioning infrastructure.
 
 image:
-    path: "/assets/images/events/trust-webinar-preview.png"
+    path: "https://raw.githubusercontent.com/CHTC/events/main/images/trust-webinar-preview.png"
     alt: Webinar preview image
-banner_image:
-    path: "/assets/images/events/trust-banner.png"
+banner:
+    path: "https://raw.githubusercontent.com/CHTC/events/main/images/trust-banner.png"
     alt: Trust banner
 
-sidebar:
-    when: |
-        Monday, July 26th at 11:00am ET
-    where: |
-        Virtual webinar on [Zoom](https://iu.zoom.us/webinar/register/WN_gBLnpC-yS_-en3vKAbeFzQ).
-    registration: |
-        Registration over.
+sidebar: |
+    # When
+
+    Monday, July 26th at 11:00am ET
+
+    # Where
+
+    Virtual webinar on [Zoom](https://iu.zoom.us/webinar/register/WN_gBLnpC-yS_-en3vKAbeFzQ).
+
+    # Registration
+
+    Registration over.
 ---
 
 <p style="font-size: larger; font-weight: bold;">A capability-based authorization infrastructure for distributed High Throughput Computing</p>
@@ -44,7 +51,7 @@ functioning infrastructure.
     float: right;
     margin-left: 20px;
 ">
-<img src="/assets/images/events/bockelman-smaller.jpeg" class="figure-img img-fluid rounded" alt="BrianBockelman">
+<img src="https://raw.githubusercontent.com/CHTC/events/main/images/bockelman-smaller.jpeg" class="figure-img img-fluid rounded" alt="BrianBockelman">
 <figcaption class="figure-caption">Brian Bockelman</figcaption>
 </figure>
 
