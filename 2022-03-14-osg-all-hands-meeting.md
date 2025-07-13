@@ -17,6 +17,7 @@ image:
 banner:
     path: "https://raw.githubusercontent.com/CHTC/events/main/images/OU_AHM_2022.jpeg"
     alt: "OSG All-Hands Meeting 2022 Banner"
+    credit: '"Field House w/ Water Tower" by Majdan is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse&atype=rich'
 
 sidebar: |
     # Dates

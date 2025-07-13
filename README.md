@@ -25,6 +25,7 @@ image:
 banner:
     path: "https://raw.githubusercontent.com/CHTC/events/main/images/trust-banner.png"
     alt: Banner alt text
+    credit: Optional credit for the banner image
 
 sidebar: |
     # When
