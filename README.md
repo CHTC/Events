@@ -20,10 +20,10 @@ excerpt:
     Short excerpt of the event.
 
 image:
-    url: "https://raw.githubusercontent.com/CHTC/events/main/images/trust-webinar-preview.png"
+    path: "https://raw.githubusercontent.com/CHTC/events/main/images/trust-webinar-preview.png"
     alt: Image alt text
 banner:
-    url: "https://raw.githubusercontent.com/CHTC/events/main/images/trust-banner.png"
+    path: "https://raw.githubusercontent.com/CHTC/events/main/images/trust-banner.png"
     alt: Banner alt text
 
 sidebar: |
