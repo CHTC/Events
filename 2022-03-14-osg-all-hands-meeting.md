@@ -41,8 +41,9 @@ sidebar: |
 endblock: |
 ---
 
-{: .alert-dark .p-3 }
-Registration is now open, find details on the [All-Hands Website](https://opensciencegrid.org/all-hands/2022/registration/).
+<div class="alert-dark p-3">
+  <strong>Registration is now open!</strong> Find details on the <a href="https://opensciencegrid.org/all-hands/2022/registration/">All-Hands Website</a>.
+</div>
 
 The OSG All-Hands Meeting 2022 will be 14–18 March 2022. 
 
