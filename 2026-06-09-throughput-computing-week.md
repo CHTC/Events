@@ -1,14 +1,9 @@
 ---
 title: Join Us at Throughput Computing Week 2026
 short_title: You are Invited to Attend Throughput Computing Week 2026
-
 published: true
-
 start_date: 2026-06-09
 end_date: 2026-06-12
-
-layout: events
-
 publish_on:
   - path
   - osg
@@ -17,43 +12,41 @@ publish_on:
 excerpt: |
     Don't miss this opportunity to connect with the High Throughput Computing community.
 
-location: "University of Wisconsin–Madison’s Fluno Center and Online via Zoom"
-
 image:
-  path: "https://raw.githubusercontent.com/CHTC/events/main/images/Madison_Skyline.jpg"
-  alt: "OSG User School 2022"
+    path: "https://raw.githubusercontent.com/CHTC/events/main/images/Madison_Skyline.jpg"
+    alt: "OSG User School 2022"
 banner:
-  path: "https://raw.githubusercontent.com/CHTC/events/main/images/throughput-2026-banners.png"
-  alt: "OSG User School 2022 Banner"
+    path: "https://raw.githubusercontent.com/CHTC/events/main/images/throughput-2026-banners.png"
+    alt: "OSG User School 2022 Banner"
 
 sidebar: |
-  ### Dates
+    ### Dates
 
-  Tuesday, June 9 through Friday, June 12, 2026.
+    Tuesday, June 9 through Friday, June 12, 2026.
 
-  Attendees of previous Throughput Computing Weeks should note that this means HTC26 will be four full days.
+    Attendees of previous Throughput Computing Weeks should note that this means HTC26 will be four full days.
 
-  ### Registration
+    ### Registration
 
-  Registration is not yet open for this event, but will be required for both In-Person and Remote Attendance. Registration for in-person attendance will cost $125 per day; there is no fee for registration for virtual attendance.
+    Registration is not yet open for this event, but will be required for both In-Person and Remote Attendance. Registration for in-person attendance will cost $125 per day; there is no fee for registration for virtual attendance.
 
-  Expect registration to open in early 2026!
+    Expect registration to open in early 2026!
 
-  ### Website
+    ### Website
 
-  The event website will be added here in January.
+    The event website will be added here in January.
 
-  ### Who
+    ### Who
 
-  Researchers, campuses, scientific collaborations, facilitators, administrators and professionals interested in the [HTCondor Software Suite](https://htcondor.org) and high-throughput computing or the [OSG Consortium](https://osg-htc.org/) resources or services (including the [OSPool](https://osg-htc.org/services/open_science_pool.html), the [Open Science Data Federation](https://osg-htc.org/services/osdf.html), the [Pelican Platform](https://pelicanplatform.org/), or the [PATh Facility](https://path-cc.io/facility/).)
+    Researchers, campuses, scientific collaborations, facilitators, administrators and professionals interested in the [HTCondor Software Suite](https://htcondor.org) and high-throughput computing or the [OSG Consortium](https://osg-htc.org/) resources or services (including the [OSPool](https://osg-htc.org/services/open_science_pool.html), the [Open Science Data Federation](https://osg-htc.org/services/osdf.html), the [Pelican Platform](https://pelicanplatform.org/), or the [PATh Facility](https://path-cc.io/facility/).)
 
     ### Where
 
-  [Fluno Center](https://fluno.com/) on the University of Wisconsin-Madison campus and Online via Zoom.
+    [Fluno Center](https://fluno.com/) on the University of Wisconsin-Madison campus and Online via Zoom.
 
-  ### Questions?
+    ### Questions?
 
-  Please email [htc@path-cc.io](mailto:htc@path-cc.io) with any questions.
+    Please email [htc@path-cc.io](mailto:htc@path-cc.io) with any questions.
 
 endblock: |
     
