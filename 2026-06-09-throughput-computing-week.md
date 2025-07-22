@@ -14,10 +14,10 @@ excerpt: |
 
 image:
     path: "https://raw.githubusercontent.com/CHTC/events/main/images/Madison_Skyline.jpg"
-    alt: "OSG User School 2022"
+    alt: "Madison Skyline"
 banner:
     path: "https://raw.githubusercontent.com/CHTC/events/main/images/throughput-2026-banners.png"
-    alt: "OSG User School 2022 Banner"
+    alt: "HTC26 Logo"
 
 sidebar: |
     ### Dates
