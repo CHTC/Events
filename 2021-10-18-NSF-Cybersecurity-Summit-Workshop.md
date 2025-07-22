@@ -6,6 +6,7 @@ start_date: 2021-10-18
 end_date: 2021-10-18
 publish_on:
   - path
+  - osg
 
 excerpt: |
     The 2021 NSF Cybersecurity Summit Workshop on Token-Based Authentication and Authorization 

@@ -12,12 +12,11 @@ excerpt: |
     Registration is now open for the OSG All-Hands Meeting 2022 to be held March 14-18 virtually.
 
 image:
-    path: "https://raw.githubusercontent.com/CHTC/events/main/images/OU_AHM_2022.jpeg"
+    path: "https://raw.githubusercontent.com/CHTC/events/main/images/All_Hands_Banner.png"
     alt: "OSG All-Hands Meeting 2022"
 banner:
-    path: "https://raw.githubusercontent.com/CHTC/events/main/images/OU_AHM_2022.jpeg"
+    path: "https://raw.githubusercontent.com/CHTC/events/main/images/All_Hands_Banner.png"
     alt: "OSG All-Hands Meeting 2022 Banner"
-    credit: '"Field House w/ Water Tower" by Majdan is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse&atype=rich'
 
 sidebar: |
     # Dates
