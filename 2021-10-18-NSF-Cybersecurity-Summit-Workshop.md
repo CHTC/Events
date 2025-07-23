@@ -17,7 +17,7 @@ excerpt: |
     no registration fee.
 
 image:
-    path: "https://raw.githubusercontent.com/CHTC/events/main/images/2021+NSF+Cybersecurity+Summit+Small.jpeg"
+    path: "https://raw.githubusercontent.com/CHTC/events/main/images/2021+NSF+Cybersecurity+Summit+banner.jpeg"
     alt: "2021 NSF Cybersecurity Summit"
 banner:
     path: "https://raw.githubusercontent.com/CHTC/events/main/images/2021+NSF+Cybersecurity+Summit+banner.jpeg"

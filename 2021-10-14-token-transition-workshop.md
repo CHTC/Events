@@ -12,7 +12,7 @@ excerpt: |
     Join us and the broader science communities to learn about making the transition from certificates to tokens for resource access within your organization's infrastructure.
 
 image:
-    path: "https://raw.githubusercontent.com/CHTC/events/main/images/key-preview.png"
+    path: "https://raw.githubusercontent.com/CHTC/events/main/images/key-banner.png"
     alt: "Token Transition Workshop"
 banner:
     path: "https://raw.githubusercontent.com/CHTC/events/main/images/key-banner.png"
