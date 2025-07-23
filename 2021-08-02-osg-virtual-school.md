@@ -12,7 +12,7 @@ excerpt: |
     The OSG Virtual School 2021 prepares attendees to use high throughput computing (HTC)—whether on a local system or using OSG—to run large-scale research simulation, analysis, and other applications for cutting-edge science. We plan to make one instance of each lecture this year available to anyone who registered. Please watch the OSG Virtual School 2021 website for more details to be added in August. Also, all the written materials will be available publicly online for everyone, regardless of whether you applied to attend this year. We will be posting these materials immediately following the conclustion of the school this year. We plan to continue running the OSG User School every year! In a typical (non-pandemic) year, we accept applications during the month of March. So please keep an eye out for future offerings. (Applications for 2021 are closed.)
 
 image:
-    path: "https://raw.githubusercontent.com/CHTC/events/main/images/code-graphic.png"
+    path: "https://raw.githubusercontent.com/CHTC/events/main/images/Madison-Header.png"
     alt: "OSG Virtual School 2021"
 banner:
     path: "https://raw.githubusercontent.com/CHTC/events/main/images/Madison-Header.jpg"
