@@ -12,8 +12,10 @@ excerpt: |
 
 image:
     path: "https://raw.githubusercontent.com/CHTC/events/main/images/htc24-terrace.jpg"
+    alt: "CHTC at the Terrace"
 banner:
     path: "https://raw.githubusercontent.com/CHTC/events/main/images/htc24-terrace.jpg"
+    alt: "CHTC at the Terrace"
 
 sidebar: |
     ### Date
