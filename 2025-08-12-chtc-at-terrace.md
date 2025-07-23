@@ -20,7 +20,7 @@ banner:
 sidebar: |
     ### Date
 
-    July 8, 3 PM - 4:30 PM
+    August 12, 3 PM - 4:30 PM
 
     ### Who
 
