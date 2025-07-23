@@ -6,6 +6,7 @@ end_date: 2025-06-27
 published: true
 publish_on:
   - osg
+  - chtc
 
 excerpt: |
     Applications for the OSG User School 2025 at the University of Wisconsin-Madison are now open!

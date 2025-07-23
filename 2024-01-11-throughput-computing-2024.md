@@ -7,6 +7,7 @@ end_date: 2024-07-12
 publish_on:
   - path
   - osg
+  - chtc
 
 excerpt: |
     Don't miss this opportunity to connect with the High Throughput Computing Community.

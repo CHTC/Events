@@ -7,6 +7,7 @@ end_date: 2024-09-27
 publish_on:
   - path
   - osg
+  - chtc
 
 excerpt: |
     This workshop is an excellent opportunity to learn about HTCondor in the beautiful Amsterdam.

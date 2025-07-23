@@ -6,6 +6,7 @@ start_date: 2022-11-16
 end_date: 2022-11-16
 publish_on:
   - path
+  - chtc
 
 excerpt: |
     Curious about how to run machine learning jobs on CHTC's GPU resources? Come to a demo and Q+A on Wednesday, November 16th!

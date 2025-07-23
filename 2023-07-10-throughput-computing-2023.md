@@ -7,6 +7,7 @@ end_date: 2023-07-14
 publish_on:
   - path
   - osg
+  - chtc
 
 excerpt: |
     Throughput Computing July 10-14 2023

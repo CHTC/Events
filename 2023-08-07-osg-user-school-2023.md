@@ -7,6 +7,7 @@ end_date: 2023-08-11
 publish_on:
   - path
   - osg
+  - chtc
 
 excerpt: |
     Applications for the OSG User School 2023 at the University of Wisconsin-Madison are now open!
