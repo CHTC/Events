@@ -6,6 +6,7 @@ start_date: 2025-11-18
 end_date: 2025-11-18
 publish_on:
   - osg
+tags: osg-training
 
 excerpt:
     Sign up for our user training!
