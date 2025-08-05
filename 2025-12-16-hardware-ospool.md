@@ -1,6 +1,6 @@
 ---
-title: "OSPool User Training - Choosing the Right Hardware on the OSG OSPool: ARM64, x86_64 microarcs, and GPUs"
-short_title: "Choosing the Right Hardware on the OSG OSPool: ARM64, x86_64 microarcs, and GPUs"
+title: "OSPool User Training - Choosing the Right Hardware on the OSG OSPool: ARM64, x86_64 microarchs, and GPUs"
+short_title: "Choosing the Right Hardware on the OSG OSPool: ARM64, x86_64 microarchs, and GPUs"
 published: true
 start_date: 2025-12-16
 end_date: 2025-12-16
