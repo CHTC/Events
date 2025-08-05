@@ -39,6 +39,7 @@ endblock: |
     ### Anything
     You can use any Markdown here, including [links](https://example.com).
     It just goes at the end of the article.
+    If you don't want anything here, feel free to delete the entire `endblock:` tag.
 ---
 
 The article content goes here.
