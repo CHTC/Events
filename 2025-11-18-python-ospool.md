@@ -11,10 +11,10 @@ excerpt:
     Sign up for our user training!
 
 image:
-    path: "https://raw.githubusercontent.com/CHTC/Events/main/images/showmic-helping.jpg"
+    path: "https://raw.githubusercontent.com/CHTC/Events/main/images/christina-instructing.jpg"
     alt: "OSPool User Training"
 banner:
-    path: "https://raw.githubusercontent.com/CHTC/Events/main/images/showmic-helping.jpg"
+    path: "https://raw.githubusercontent.com/CHTC/Events/main/images/christina-instructing.jpg"
     alt: "OSPool User Training"
 
 sidebar: |
