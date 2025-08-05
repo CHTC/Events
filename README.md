@@ -25,21 +25,19 @@ image:
 banner:
     path: "https://raw.githubusercontent.com/CHTC/events/main/images/trust-banner.png"
     alt: Banner alt text
-    credit: Optional credit for the banner image
+    credit: Optional credit for the banner image. Feel free to delete.
 
 sidebar: |
     # When
     Date and time of the event.
     # Anything
-    You can use any Markdown here, including [links](https://example.com).
-    It just goes in the sidebar.
+    You can use any Markdown here, including [links](https://example.com). It just goes in the sidebar.
 endblock: |
     ### Credit
     Text for crediting the event.
     ### Anything
-    You can use any Markdown here, including [links](https://example.com).
-    It just goes at the end of the article.
-    If you don't want anything here, feel free to delete the entire `endblock:` tag.
+    You can use any Markdown here, including [links](https://example.com). It just goes at the end of the article.
+    Feel free to delete the entire `endblock:` tag if you don't need it.
 ---
 
 The article content goes here.
