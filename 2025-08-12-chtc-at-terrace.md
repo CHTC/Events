@@ -35,6 +35,8 @@ sidebar: |
     If you have any questions about the event, email us at [chtc@cs.wisc.edu](mailto:chtc@cs.wisc.edu)
 ---
 
+***⚠️ This event is canceled due to weather and staffing outages.***
+
 **Join CHTC facilitators at the Memorial Union Terrace!**
 
 Summers in Madison mean summers at the terrace! Trade your indoor office for the outdoors and join CHTC facilitators at the Memorial Union Terrace! 
