@@ -6,6 +6,7 @@ start_date: 2025-09-10
 end_date: 2025-09-10
 publish_on:
   - CHTC
+tags: bioinformatics-cafe
 
 excerpt:
     Join CHTC facilitators at the Bioinformatics Café!
