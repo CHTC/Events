@@ -5,7 +5,7 @@ published: true
 start_date: 2025-09-10
 end_date: 2025-09-10
 publish_on:
-  - CHTC
+  - chtc
 tags: bioinformatics-cafe
 
 excerpt:
