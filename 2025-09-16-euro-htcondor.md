@@ -30,7 +30,7 @@ sidebar: |
     Registration for this workshop is open, but closes soon at the end of the day on Friday the 5th of September. Register [here](https://indico.cern.ch/e/htcondor2025)!
 ---
 
-This year's European HTCondor Workshop will be held from September 16 to 19th, at the Institute of Physcis at the Czech Acadamy of Science in beautiful Prague.
+This year's European HTCondor Workshop will be held from September 16 to 19th, at the Institute of Physics at the Czech Acadamy of Science in beautiful Prague.
 
 We are still building the agenda, as list of potential talks from the HTCondor team and other accepted talks will soon be available  under the Contribution List link on the Indico meeting site. 
 
@@ -38,7 +38,7 @@ We also would very much like to know about your use of HTCondor, in your project
  
 Participation is open to all organisations (including companies) and persons interested in HTCondor (and by no means restricted to particle physics and/or academia!) If you know potentially interested persons, don't hesitate to make them aware of this opportunity.
  
-If you have any questions, please contact [hepix-2025condorworkshop-support@hepix.org](hepix-2025condorworkshop-support@hepix.org)
+If you have any questions, please contact [hepix-2025condorworkshop-support@hepix.org](mailto:hepix-2025condorworkshop-support@hepix.org)
  
 We are looking forward to seeing you a rich, productive workshop.
  
