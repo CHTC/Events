@@ -2,7 +2,7 @@
 title: "Registration closing soon for the 2025 European HTCondor Workshop, September 16-19"
 short_title: "2025 European HTCondor Workshop"
 published: true
-start_date: 2025-08-16
+start_date: 2025-9-16
 end_date: 2025-09-26
 publish_on:
   - path
@@ -13,10 +13,10 @@ excerpt: |
     This workshop is an excellent opportunity to learn about HTCondor in Prague.
 
 image:
-    path: "https://raw.githubusercontent.com/CHTC/events/main/images/HTCondorEurope.jpeg"
+    path: "https://raw.githubusercontent.com/CHTC/events/main/images/EuroHTCondor-Prague.png"
     alt: "2025 European HTCondor Workshop"
 banner:
-    path: "https://raw.githubusercontent.com/CHTC/events/main/images/HTCondorEurope.jpeg"
+    path: "https://raw.githubusercontent.com/CHTC/events/main/images/EuroHTCondor-Prague.png"
     alt: "2025 European HTCondor Workshop Banner"
 
 sidebar: |
@@ -27,7 +27,7 @@ sidebar: |
    Institute of Physics of he Czech Academy of Science in Prague
     
     # Registration
-    Registration for this workshop is open, but closes soon at the end of the day on Friday the 5th of September. Register [here!](https://indico.cern.ch/e/htcondor2025)
+    Registration for this workshop is open, but closes soon at the end of the day on Friday the 5th of September. Register [here](https://indico.cern.ch/e/htcondor2025)!
 
 endblock: |
 ---
