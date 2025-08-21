@@ -1,5 +1,5 @@
 ---
-title: "Registration closing soon for the 2025 European HTCondor Workshop, September 16-19"
+title: "Register Now for the 2025 European HTCondor Workshop, September 16-19"
 short_title: "2025 European HTCondor Workshop"
 published: true
 start_date: 2025-9-16
