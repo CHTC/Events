@@ -24,7 +24,7 @@ sidebar: |
     September 16-19, 2025
     
     # Where
-   Institute of Physics of he Czech Academy of Science in Prague
+    Institute of Physics of he Czech Academy of Science in Prague
     
     # Registration
     Registration for this workshop is open, but closes soon at the end of the day on Friday the 5th of September. Register [here](https://indico.cern.ch/e/htcondor2025)!
