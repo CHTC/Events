@@ -28,8 +28,6 @@ sidebar: |
     
     # Registration
     Registration for this workshop is open, but closes soon at the end of the day on Friday the 5th of September. Register [here](https://indico.cern.ch/e/htcondor2025)!
-
-endblock: |
 ---
 
 This year's European HTCondor Workshop will be held from September 16 to 19th, at the Institute of Physcis at the Czech Acadamy of Science in beautiful Prague.
