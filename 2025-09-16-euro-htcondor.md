@@ -3,7 +3,7 @@ title: "Registration closing soon for the 2025 European HTCondor Workshop, Septe
 short_title: "2025 European HTCondor Workshop"
 published: true
 start_date: 2025-9-16
-end_date: 2025-09-26
+end_date: 2025-09-19
 publish_on:
   - path
   - osg
