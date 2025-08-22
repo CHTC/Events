@@ -17,7 +17,6 @@ image:
 banner:
     path: "https://raw.githubusercontent.com/CHTC/chtc-website-source/refs/heads/master/images/20240308_facilitators_morgridge.jpg"
     alt: Banner alt text
-    credit: Optional credit for the banner image. Feel free to delete.
 
 sidebar: |
     # When
