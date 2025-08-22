@@ -39,4 +39,4 @@ sidebar: |
 
 **Welcome new graduate students!**
 
-CHTC will have a table at the [New Graduate Student Resource Fair](https://grad.wisc.edu/new-students/)! Come chat with us about how to get started, how CHTC works with your resesarch group, or anything research computing in general!
+CHTC will have a table at the [New Graduate Student Resource Fair](https://grad.wisc.edu/new-students/)! Come chat with us about how to get started, how CHTC works with your research group, or anything research computing in general!
