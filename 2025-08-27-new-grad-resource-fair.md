@@ -24,11 +24,11 @@ sidebar: |
 
     ### When
 
-    Wednesday, August 27, 11:00 PM - 1:00 PM
+    Wednesday, August 27, 11:00 AM - 1:00 PM
 
     ### Where
 
-    In-Person / Zoom
+    In-Person
 
     Union South, Varsity Hall
 

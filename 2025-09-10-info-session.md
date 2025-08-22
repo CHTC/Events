@@ -29,7 +29,7 @@ sidebar: |
 
     ### Where
 
-    In-Person / Zoom
+    In-Person
 
     Discovery Building, Orchard View Room
 
