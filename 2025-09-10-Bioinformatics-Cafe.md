@@ -25,6 +25,8 @@ sidebar: |
     UW-Madison life-sciences researchers interested in using CHTC resources for their bioinformatics workflows. 
     # Where
     Discovery Building - Orchard View Room (Rm. 3820), 330 N Orchard St, Madison, WI 53715
+    ## Registration
+    [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSd626uMOc9nOVvN5x0bShFtmB-uns7Mnp8-DFNMcyyQjnq1dg/viewform?usp=dialog)
     # Contact Us
     If you have any questions about the event, email us at [chtc@cs.wisc.edu](mailto:chtc@cs.wisc.edu)
 ---
