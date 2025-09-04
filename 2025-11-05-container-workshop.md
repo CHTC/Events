@@ -24,7 +24,7 @@ sidebar: |
 
     ### When
 
-    Tuesday, February 11, 10:30am - 12:00pm
+    Wednesday, November 5, 10:00am - 12:00pm
 
     ### Where
 
