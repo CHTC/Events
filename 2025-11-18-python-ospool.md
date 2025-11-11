@@ -21,7 +21,7 @@ banner:
 sidebar: |
     # Who
 
-    New and prospective OSPool users who want to learn about using Jupyter Hub to access OSPool resources.
+    New and prospective OSPool users who want to learn about deploying Python programs on OSPool resources.
 
     # When
 
