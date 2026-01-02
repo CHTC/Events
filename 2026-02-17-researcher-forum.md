@@ -34,7 +34,7 @@ sidebar: |
 
     ## Registration
 
-    [Register here](https://uwmadison.co1.qualtrics.com/jfe/form/SV_elMPzasJgsUGxfw)
+    [Register here](https://uwmadison.co1.qualtrics.com/jfe/form/SV_0xHBAiOPxqtVSSy)
 
     ### Questions?
 
