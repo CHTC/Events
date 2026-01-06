@@ -56,4 +56,4 @@ In this event, you will have a chance to:
 
 We hope that this is an event that empowers all CHTC users and relevant community members to start and continue conversations with us as collaborative research partners. 
 
-**Details TBA**
+Details: https://chtc.cs.wisc.edu/uw-research-computing/researcher-forum-2026
