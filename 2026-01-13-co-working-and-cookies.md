@@ -24,7 +24,7 @@ sidebar: |
 
     ### When
 
-    [Tuesday, January 13, 10:30 AM - 12 PM](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGg4Y3AwNmZucDI2dTVxcTFtdWljdXBtdXUgY19hYjk0MmRjZTdhMTMzMGFkYjU3NDk0NTc1Njc4OGYzYzMyOTFlNWUwZTg1MDhkZThkOGI3YjlkZGExZWE0YTBiQGc&tmsrc=c_ab942dce7a1330adb574945756788f3c3291e5e0e8508de8d8b7b9dda1ea4a0b%40group.calendar.google.com)
+    [Tuesday, January 13, 3 PM - 4:30 PM](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGg4Y3AwNmZucDI2dTVxcTFtdWljdXBtdXUgY19hYjk0MmRjZTdhMTMzMGFkYjU3NDk0NTc1Njc4OGYzYzMyOTFlNWUwZTg1MDhkZThkOGI3YjlkZGExZWE0YTBiQGc&tmsrc=c_ab942dce7a1330adb574945756788f3c3291e5e0e8508de8d8b7b9dda1ea4a0b%40group.calendar.google.com)
 
     ### Where
 
