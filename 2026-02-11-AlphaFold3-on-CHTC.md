@@ -46,6 +46,9 @@ This tutorial is ideal for:
 
 No prior experience with CHTC is required, but familiarity with AlphaFold or AlphaFold3 concepts will be helpful.
 
+**Requesting AlphaFold3 Weights Early (Can take several days):**
+If you would like to follow along, please make sure to request the AlphaFold3 model parameters using the form linked on the [Alphafold3 GitHub Repository](https://github.com/google-deepmind/alphafold3?tab=readme-ov-file#obtaining-model-parameters). Please be aware that this is a process handled by Google's DeepMind team and can take several days to weeks after the request. Make sure to upload your parameter file to your CHTC home directory once you receive it!
+
 **Bioinformatics Café**
 
 This event is part of the Bioinformatics Café, a monthly, community-focused series that combines short technical tutorials with dedicated coworking time. The Café is designed to help researchers make real progress on their computational biology projects while connecting with peers and CHTC facilitators in a relaxed, supportive environment.
