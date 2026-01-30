@@ -35,4 +35,7 @@ Bring your research, your questions, and your curiosity! The Bioinformatics Caf√
 
 **Co-Hosted Event** - _This event will be co-hosted with a special tutorial on using AlphaFold3 on CHTC resources from 2:30 - 3:30 PM CT, followed by an open coworking session from 3:30 - 4:30 PM CT. **All those interested in using AlphaFold3 on CHTC are welcomed!**_
 
+**Requesting AlphaFold3 Weights Early (Can take several days):**
+If you would like to follow along, please make sure to request the AlphaFold3 model parameters using the form linked on the [Alphafold3 GitHub Repository](https://github.com/google-deepmind/alphafold3?tab=readme-ov-file#obtaining-model-parameters). Please be aware that this is a process handled by Google's DeepMind team and can take several days to weeks after the request. Make sure to upload your parameter file to your CHTC home directory once you receive it!
+
 Whether you want to tackle a tricky bioinformatics problem, get hands-on help with CHTC/OSPool workflows, or simply co-work on your project in a collaborative environment, the Bioinformatics Caf√© is the perfect place to make progress and meet fellow researchers.
