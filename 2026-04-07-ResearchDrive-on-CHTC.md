@@ -22,7 +22,7 @@ sidebar: |
     # When
     April 7th, 2026 — 1:00 - 2:00 PM CT
     # Who 
-    UW-Madison life-sciences researchers interested in integrating data from ResearchDrive with CHTC resources. 
+    Researchers using ResearchDrive and CHTC
     # Where
     Morgridge Hall (Rm. 3610) - 1205 University Avenue, Madison, WI 53715
     # Contact Us
@@ -32,7 +32,7 @@ sidebar: |
 Join CHTC facilitators for a training focused on integrating ResearchDrive data with CHTC resources,
 covering manual transfers on HPC and HTC systems and automated transfers of data on the HTC system.
 
-This session is designed for researchers who want to utilize the storage space in ResearchDrive ([]()) to support their computing workflows.
+This session is designed for researchers who want to utilize the storage space in ResearchDrive ([it.wisc.edu/services/researchdrive](https://it.wisc.edu/services/researchdrive/)) to support their computing workflows.
 
 **Who Should Attend?**
 
