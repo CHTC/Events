@@ -43,7 +43,7 @@ This workshop is designed to introduce software containers such as Docker, Appta
 ### Prerequisites
 * Some familiarity with basic understanding of HTCondor job submission and HTCondor submit files
 
-<a class="btn btn-secondary me-md-2 text-dark" href="https://booking.setmore.com/scheduleappointment/9e81c695-e735-4ddc-93b9-9e9e7e1eb215/session/3d73ecea-a0a3-46e3-b7ba-4e0a0757eda6" role="button">Register here (Opens 8/18)</a> <a class="btn btn-secondary me-md-2 text-dark" href="/services/facilitation/monthly-training" role="button">Other upcoming trainings</a>
+<a class="btn btn-secondary me-md-2 text-dark" href="https://booking.setmore.com/scheduleappointment/9e81c695-e735-4ddc-93b9-9e9e7e1eb215/session/3d73ecea-a0a3-46e3-b7ba-4e0a0757eda6" role="button">Register here</a> <a class="btn btn-secondary me-md-2 text-dark" href="/services/facilitation/monthly-training" role="button">Other upcoming trainings</a>
 <br><br>
 
 All User Training sessions are offered from 2:30-4:00pm EST on the third Tuesday of the month. It's best to already have an active OSPool account to follow along with hands-on examples, but anyone can listen in by registering.
