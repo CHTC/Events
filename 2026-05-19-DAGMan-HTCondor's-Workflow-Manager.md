@@ -15,7 +15,7 @@ image:
     path: "https://raw.githubusercontent.com/CHTC/Events/main/images/christina-instructing.jpg"
     alt: "OSPool User Training"
 banner:
-    path: "https://raw.githubusercontent.com/CHTC/Events/main/images/christina-instructing.jpg"
+    path: "https://raw.githubusercontent.com/CHTC/Events/main/images/showmic-helping.jpg"
     alt: "OSPool User Training"
 
 sidebar: |
