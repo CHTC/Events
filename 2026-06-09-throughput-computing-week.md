@@ -10,9 +10,7 @@ publish_on:
   - chtc
 
 excerpt: |
-    For the fourth year in a row, Throughput Computing Week 2026 (HTC26) will bring together the Throughput Computing community to share challenges, exchange recent advances and explore opportunities. This year we will welcome the new OSG Executive Director - Peter Couvares - who brings a fresh perspective on how physics communities engage with throughput computing, starting with Multi Messenger Astrophysics.
-
-The OSG Consortium, the HTCondor team, and the Center for High Throughput Computing (CHTC) will be hosting HTC26 June 9 - 12 at the University of Wisconsin-Madison's Fluno Center. 
+    For the fourth year in a row, Throughput Computing Week 2026 (HTC26) will bring together the Throughput Computing community to share challenges, exchange recent advances and explore opportunities. This year we will welcome the new OSG Executive Director - Peter Couvares - who brings a fresh perspective on how physics communities engage with throughput computing, starting with Multi Messenger Astrophysics. The OSG Consortium, the HTCondor team, and the Center for High Throughput Computing (CHTC) will be hosting HTC26 June 9 - 12 at the University of Wisconsin-Madison's Fluno Center. 
 
 image:
     path: "https://raw.githubusercontent.com/CHTC/events/main/images/Madison_Skyline.jpg"
