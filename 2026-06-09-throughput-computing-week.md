@@ -28,11 +28,11 @@ sidebar: |
 
     ### Registration
 
-    Registration is open. To Register and learn details about the event visit [https://osg-htc.org/htc26](https://osg-htc.org/htc26). Registration is required for both In-Person and Remote Attendance.       Registration for in-person attendance will cost $130 per day; there is no fee for registration for virtual attendance.
+    Registration is open. To Register and learn details visit the [event site](https://agenda.hep.wisc.edu/event/2432/). Registration is required for both In-Person and Remote Attendance. Registration for in-person attendance will cost $130 per day; there is no fee for registration for virtual attendance.
 
     ### Website
 
-    The event website: [https://osg-htc.org/htc26](https://osg-htc.org/htc26)
+    The event website: [https://agenda.hep.wisc.edu/event/2432/](https://agenda.hep.wisc.edu/event/2432/)
 
     ### Who
 
