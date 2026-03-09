@@ -54,9 +54,9 @@ endblock: |
 
 You are invited to the annual Throughput Computing Week (HTC26) from June 9-12 to be held in beautiful Madison, Wisconsin. For the fourth year in a row, Throughput Computing Week 2026 (HTC26) will bring together the Throughput Computing community to share challenges, exchange recent advances and explore opportunities. This year we will welcome the new OSG Executive Director - Peter Couvares - who brings a fresh perspective on how physics communities engage with throughput computing, starting with Multi Messenger Astrophysics. 
 
-HTC26 gives OSPool, OSDF, HTCondor and Pelican users, contributors, and collaborators the chance to exchange ideas and experiences, to learn about the latest services and research, and to experience live demos. Current or potential consumers or providers of distributed high throughput computing, HTCondor, OSDF, or Pelican users or administrators are welcome to attend. This year HTC26 will include a focus on a topics including
+HTC26 gives OSPool, OSDF, HTCondor and Pelican users, contributors, and collaborators the chance to exchange ideas and experiences, to learn about the latest services and research, and to experience live demos. Current or potential consumers or providers of distributed high throughput computing, HTCondor, OSDF, or Pelican users or administrators are welcome to attend. This year HTC26 will include a focus on a topics including:
 
-- The challenges of AI, including Successes and Failures in using Agentic AI, AI Facilitation, Best practices for AI driven Research, and Using AI tools to understand and debug HTCondor and Pelican 
+- The Challenges of AI, including Successes and Failures in using Agentic AI, AI Facilitation, Best practices for AI driven Research, and Using AI tools to understand and debug HTCondor and Pelican 
 - Facilitation for HTC
 - The Challenges of Multi Messenger Astrophyics Computing
 - HTC Admin Jumpstart and Masterclass
@@ -70,11 +70,11 @@ Following the success of these sessions in the last two years, [CC* campuses](ht
 
 ### Speaking Opportunities
 
-We encourage you to consider giving a talk. Technical presentations at HTC26 are short, typically 20 minutes in length. Applying merely requires a brief abstract submission. A link to submit these will go live alongside the event site early 2026.
+We encourage you to consider giving a talk. Technical presentations at HTC26 are short, typically 20 minutes in length. Applying merely requires a brief abstract submission: [Sign up to Speak](https://agenda.hep.wisc.edu/event/2432/)
 
 ### Visiting Madison
 
-Madison, Wisconsin is both a beautiful and a popular place to visit in the summer. We will have room blocks reserved for HTC26 and encourage you to register and book your hotel room as early as possible. 
+Madison, Wisconsin is both a beautiful and a popular place to visit in the summer. We have room blocks reserved for HTC26 and encourage you to register and book your hotel room as early as possible. These reserved room blocks at attractive rates may fill up and do also expire within approximately 30 days of the event. 
 
 ### Questions and Resources
 
