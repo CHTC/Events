@@ -58,15 +58,15 @@ HTC26 gives OSPool, OSDF, HTCondor and Pelican users, contributors, and collabor
 
 - The Challenges of AI, including Successes and Failures in using Agentic AI, AI Facilitation, Best practices for AI driven Research, and Using AI tools to understand and debug HTCondor and Pelican 
 - Facilitation for HTC
-- The Challenges of Multi Messenger Astrophyics Computing
-- HTC Admin Jumpstart and Masterclass
+- The Challenges of Multi Messenger Astrophysics Computing
+- HTC Admin Jumpstart and Masterclasses
 - The Challenges of Data
 - Throughput Computing at Work: Reports from the Field
 
 
 ### Connect with CC* Campuses and OSG Staff
 
-Following the success of these sessions in the last two years, [CC* campuses](https://osg-htc.org/campus-cyberinfrastructure.html) (current and potential) will have the opportunity to build connections and to advance their technical know-how at the dedicated CC* track. These sessions will bring together campus staff, including staff involved directly with HTC technology, with the OSG Consortium staff. The goal is to engage with and to learn from each other to improve the experience of providing or utilizing capacity and to advance scientific research on your own campus and across the nation.
+Following the success of these sessions in the last two years, campus contributors to the OSDF and the OSPool (including CC* awardees, past, present and possibly future) can attend dedicated breakout sessions on Wednesday, June 10 of the event. These sessions will bring together campus staff, including staff involved directly with HTC technology, with the OSG Consortium staff. The goal is to engage with and to learn from each other to improve the experience of providing or utilizing capacity and to advance scientific research on your own campus and across the nation.
 
 ### Speaking Opportunities
 
