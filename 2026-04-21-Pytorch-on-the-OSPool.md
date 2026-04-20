@@ -41,7 +41,10 @@ sidebar: |
 This workshop outlines best practices for running Pytorch-based workflows on the OSPool, including requesting certain GPUs, optimizing resource requests, and strategies for higher throughput.
 
 ### Prerequisites
-* Some familiarity with basic understanding of Python
+* Basic machine learning concepts
+* Basic understanding of HPC/HTC systems
+* Experience with the command line
+* Some familiarity with HTCondor is recommended but not required
 
 <a class="btn btn-secondary me-md-2 text-dark" href="https://osgfacilitation.setmore.com/book?step=time-slot&products=6e35eda2-21f6-4a4d-b73e-02a67665f087&type=class&staff=reb013eaf3ad19af505ff3b859c67113d99cb0fe2&staffSelected=true" role="button">Register here</a> <a class="btn btn-secondary me-md-2 text-dark" href="/services/facilitation/monthly-training" role="button">Other upcoming trainings</a>
 <br><br>
