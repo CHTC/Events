@@ -2,8 +2,8 @@
 title: "OSPool User Training - Getting Started on the OSPool: Convert your Data Analysis into Jobs"
 short_title: "OSPool User Training - Getting Started on the OSPool: Convert your Data Analysis into Jobs"
 published: true
-start_date: 2026-09-04
-end_date: 2026-09-04
+start_date: 2026-09-15
+end_date: 2026-09-15
 publish_on:
   - osg
 tags: osg-training
