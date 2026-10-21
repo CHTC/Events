@@ -52,4 +52,4 @@ Registration is now open! Find more information on the [event page.](https://ind
 
 To ease travel, the workshop will begin Tuesday morning and end around Friday lunchtime. 
 
-Want more information? Sign up to be on the HTCondor-World [mailing list.](https://lists.cs.wisc.edu/mailman/listinfo/htcondor-world) Email us at [HTCondor-world@cs.wisc.edu](HTCondor-world@cs.wisc.edu) for further questions
+Want more information? Sign up to be on the HTCondor-World mailing list. Email us at [HTCondor-world@cs.wisc.edu](HTCondor-world@cs.wisc.edu) for further questions

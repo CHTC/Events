@@ -25,7 +25,7 @@ sidebar: |
 
     # Where
 
-    Virtual webinar on [Zoom](https://iu.zoom.us/webinar/register/WN_gBLnpC-yS_-en3vKAbeFzQ).
+    Virtual webinar on Zoom.
 
     # Registration
 

@@ -52,4 +52,4 @@ Registration for this workshop is open, but closes soon at the end of the day on
 
 ---
 
-Want more information? Sign up to be on the HTCondor-World [mailing list.](https://lists.cs.wisc.edu/mailman/listinfo/htcondor-world) Email us at [HTCondor-world@cs.wisc.edu](HTCondor-world@cs.wisc.edu) for further questions
+Want more information? Sign up to be on the HTCondor-World mailing list. Email us at [HTCondor-world@cs.wisc.edu](HTCondor-world@cs.wisc.edu) for further questions
